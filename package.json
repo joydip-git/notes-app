@@ -1,0 +1,29 @@
+{
+  "name": "notes-node-v3",
+  "version": "1.0.0",
+  "description": "note app version 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joydip",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joydip-git/notes-app.git"
+  },
+  "keywords": [
+    "notes-app",
+    "notes",
+    "notes-node"
+  ],
+  "bugs": {
+    "url": "https://github.com/joydip-git/notes-app/issues"
+  },
+  "homepage": "https://github.com/joydip-git/notes-app#readme"
+}
